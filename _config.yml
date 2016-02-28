@@ -1,28 +1,18 @@
-name: CoffeeCodes
-favicon: null
-layout_spectrum: 0.0773126573767513
-typography_spectrum: 0.5289532726164907
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#0a0a0a'
-    - '#a98fcc'
-    - '#426fb4'
+    - '#FFFFFF'
+    - '#0A0A0A'
+    - '#A98FCC'
+    - '#426FB4'
     - '#662923'
   brandStrength: 0.3125
   lightness: 0.375
+  rhythmicContrast: 0.646369
   saturation: 0.1875
-  rhythmicContrast: 0.646369946654886
+cta: {}
+layout_spectrum: 0.952702
+name: CoffeeCodes
+opengraph: {}
 purpose: []
+typography_spectrum: 0.528953
